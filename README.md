@@ -1,5 +1,7 @@
 # 📺 YouTube Data Analysis
 
+[![Open in Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/priscilasalgadob/youtube-data-analysis/blob/main/Youtube_Data_Enhanced.ipynb)
+
 A comprehensive exploratory data analysis (EDA) project using two large YouTube datasets: US comments (~691K rows) and trending video metadata across 10+ countries (~340K rows). The analysis covers sentiment, emoji behavior, engagement metrics by category, cross-variable correlations, and title formatting patterns.
 
 ---
